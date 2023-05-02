@@ -36,3 +36,37 @@ Dec 1999 - Feb 2001 | Founder and Primary Faculty | Systems 2000
 Dec 1998 - Dec 1999 | Student Mentor | Self-employed
 Dec 1997 - Dec 1998 | Faculty | Datapro & Alpha Computers
 
+---
+
+## Recognitions
+- Microsoft MVP (2006)
+- Microsoft Deliver IT (2 times)
+- Microsoft Special Recognition (Cable Cut Incident)
+- Orion "Made a Difference"
+
+## Community
+- Microsoft Alumni
+- Microsoft MVP Reconnect
+- Diversity Hiring
+- Back to Work
+
+## Top 3 Milestones
+
+- Planned, hired, and built high-performance engineering teams with up to 60 members.
+- Built & Re-built Engineering Processes with no impact to in-flight work; Transitioned engineering teams to CI/CD, automated deployment, created reliable rollback strategies, pivoted multi-year programs into stepped multi-environment deliveries.
+- Drove and successfully executed major inter-vendor transitions of $10 million mission-critical portfolio with no outages; also reduced work backlog by 120% y/y through new process efficiencies.
+
+## Top skills
+- Engineering excellence
+- Innovation
+- Team building
+- Mentoring and coaching
+- Cross-functional leadership
+- Customer empathy
+- Program management
+- Stakeholder management
+- Agile project management
+- Business analysis
+- Community building
+
+
