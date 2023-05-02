@@ -69,4 +69,46 @@ Dec 1997 | Dec 1998 | Faculty | Datapro & Alpha Computers
 - Business analysis
 - Community building
 
+## Operating systems
+- Windows
+- Linux
+- UNIX
+- OS/2
 
+## Programming languages
+- .NET Framework 2.0 to 4.8
+- .NET Core 1.0 to 3.1
+- .NET 5.0 to 8.0
+- C# 12
+- ASP.NET (up to latest)
+- VB.NET (up to .NET Framework 3.5)
+- VBScript
+- Visual Basic 6.0
+- Classic ASP
+- Server-side CGI
+- JavaScript
+- HTML
+- CSS
+- PHP 7.2
+- Python
+- Pascal (Turbo Pascal)
+- C and C++
+- FORTRAN
+- COBOL
+- Xml Stylesheets (Xslt)
+- Bash scripting
+- DOS Shell Scripting (BAT, CMD)
+- PowerShell
+
+## JavaScript frameworks
+- Bootstrap
+- Jquery
+- React.js
+
+## Database technologies
+- SQL Server (SQL Server for Windows, SQL Server for Linux, SQL Azure)
+  - T-SQL
+- Oracle (up to 9i)
+- MySQL and MariaDB
+- Azure Cosmos DB
+- Azure Storage Tables
