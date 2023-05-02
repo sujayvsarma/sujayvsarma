@@ -112,3 +112,18 @@ Dec 1997 | Dec 1998 | Faculty | Datapro & Alpha Computers
 - MySQL and MariaDB
 - Azure Cosmos DB
 - Azure Storage Tables
+
+## Application servers
+- Microsoft (Office) 365
+- Microsoft SharePoint
+
+## Software and tools
+- Microsoft Azure
+- Visual Studio
+- Microsoft Azure DevOps (formerly Visual Studio Team Foundation Server/Services)
+- Atlassian Jira
+- Atlassian Confluence
+- Microsoft Project
+- Microsoft Visio
+- Microsoft Office (Word, Excel, PowerPoint)
+- GitHub
