@@ -15,3 +15,12 @@
 - Built & Re-built Engineering Processes with no impact to in-flight work; Transitioned engineering teams to CI/CD, automated deployment, created reliable rollback strategies, pivoted multi-year programs into stepped multi-environment deliveries.
 - Drove and successfully executed major inter-vendor transitions of $10 million mission-critical portfolio with no outages; also reduced work backlog by 120% y/y through new process efficiencies.
 
+---
+
+## Sections
+- [Main](readme.md)
+- [Work Experience](work-experience.md)
+- [Recognitions](recognitions.md)
+- [Community](community.md)
+- [Milestones](milestones.md)
+- [Skills, Software, Tools, Programming Languages](skills-software-tools-languages.md)
