@@ -16,8 +16,3 @@
 - Microsoft Special Recognition (Cable Cut Incident)
 - Orion "Made a Difference"
 
-## Other sections
-
-- [Main](readme.md)
-- [Work Experience](work-experience.md)
-
