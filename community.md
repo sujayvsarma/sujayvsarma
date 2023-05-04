@@ -15,3 +15,12 @@
 - Diversity Hiring
 - Back to Work
 
+---
+
+## Sections
+- [Main](readme.md)
+- [Work Experience](work-experience.md)
+- [Recognitions](recognitions.md)
+- [Community](community.md)
+- [Milestones](milestones.md)
+- [Skills, Software, Tools, Programming Languages](skills-software-tools-languages.md)
