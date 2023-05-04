@@ -33,3 +33,13 @@ Dec 1999 | Feb 2001 | Founder and Primary Faculty | Systems 2000
 Dec 1998 | Dec 1999 | Student Mentor | Self-employed
 Dec 1997 | Dec 1998 | Faculty | Datapro & Alpha Computers
 
+
+---
+
+## Sections
+- [Main](readme.md)
+- [Work Experience](work-experience.md)
+- [Recognitions](recognitions.md)
+- [Community](community.md)
+- [Milestones](milestones.md)
+- [Skills, Software, Tools, Programming Languages](skills-software-tools-languages.md)
