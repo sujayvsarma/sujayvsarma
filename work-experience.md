@@ -12,15 +12,15 @@
 ## Experience chronology
 From | Until | Designation | Employer
 -----|-------|-------------|-----------------
-Oct 2022 | Present  | Software Engineering Consultant, Mentor & Coach | Self-employed
+Oct 2022 | Present  | Engineering Excellence - Consultant, Trainer and Tutor | Self-employed
 Sep 2022 | Nov 2022 | Music distribution and promotions | Consulting
-Jun 2022 | Nov 2022 | Chief Solution Architect & Engineering Mentor | Forbie Inc.
+Jun 2022 | Nov 2022 | Engineering Mentor | Forbie Inc.
 Dec 2020 | May 2022 | Senior Delivery Manager | Orion Innovation
 Mar 2018 | Mar 2020 | Solutions Lead | GTM Catalyst
 Apr 2015 | Mar 2018 | Microsoft Azure Solutions Consultant | Consulting
 Mar 2015 | Apr 2015 | Technical Project Manager | Inspire Solutions Inc
 Jan 2014 | Mar 2015 | Product Manager and Principal Developer | Self-employed
-Mar 2008 | Nov 2013 | Sr. Application Reliability SME (L3), Engineering Lead, Program Manager (India) | Microsoft Corporation
+Mar 2008 | Nov 2013 | Sr. Application Reliability SME (IT Service Operations), Program Manager (India), Engineering Lead (Global) | Microsoft Corporation
 Jun 2007 | Dec 2007 | Technical Team Lead | Orion India Systems
 Feb 2007 | Jun 2007 | Content Workflow Implementation Consultant | Self-employed
 Aug 2002 | Feb 2007 | Manager Technology | CyberMedia
