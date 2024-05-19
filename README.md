@@ -2,7 +2,7 @@
 ---|---
 
 # SUJAY V SARMA
-- 25+ years of experience building Teams, Products and Services.
+- 27+ years of experience building Teams, Products and Services.
 - Projects and engagements worth over USD $ 50 million handled and delivered successfully.
 - Managed over 40 projects and over 60 head count.
 - Over 5 billion lines of code written.
